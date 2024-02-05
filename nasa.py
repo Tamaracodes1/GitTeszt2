@@ -17,7 +17,6 @@ def birth_date(month_list):
         count = res.count(x)
         how_many.append(count)
         x += 1
-    print(how_many)
     return how_many
 
 
